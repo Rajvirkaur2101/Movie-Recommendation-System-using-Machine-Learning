@@ -20,4 +20,4 @@ The project implements three recommendation strategies:
 
 Each model is evaluated using metrics such as RMSE, MAE, Accuracy, Precision, Recall, and F1 Score to measure performance. The project also addresses limitations like the cold-start problem, proposing hybrid strategies to improve coverage and accuracy. With intuitive Streamlit web interfaces, users can interactively explore recommendations and understand how each model works behind the scenes.
 
-### Link to the Datset - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+##### Link to the Datset - https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
